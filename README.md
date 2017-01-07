@@ -1,4 +1,4 @@
-![](/icon.png)
+![](/icon.png =100x100)
 
 #What is Stackpack?
 
@@ -12,4 +12,8 @@ Fork this repo, clone it, and:
 	> npm install
 	> npm start
 ```
+
+![hover](/assets/img/search.png =300x100)
+![popup](/assets/img/popup.png =300x100)
+![search](/assets/img/search.png =300x100)
 
