@@ -1,4 +1,4 @@
-![](/logo.png)
+![](/icon.png)
 
 #What is Stackpack?
 
