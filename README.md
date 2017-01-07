@@ -1,4 +1,4 @@
-![](/icon.png?raw=true =100x100)
+![](/icon.png?raw=true | width=300)
 
 #What is Stackpack?
 
@@ -13,7 +13,7 @@ Fork this repo, clone it, and:
 	> npm start
 ```
 
-![hover](/assets/img/search.png?raw=true =300x100)
-![popup](/assets/img/popup.png?raw=true =300x100)
-![search](/assets/img/search.png?raw=true =300x100)
+![hover](/assets/img/search.png?raw=true | width=300)
+![popup](/assets/img/popup.png?raw=true | width=300)
+![search](/assets/img/search.png?raw=true | width=300)
 
