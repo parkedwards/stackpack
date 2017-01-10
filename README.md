@@ -9,14 +9,18 @@ Stackpack is a Chrome browser extension that helps developers streamline their S
 Stackpack provides three primary functions to your SO research workflow:
 
 ![popup](/assets/img/popup.png?raw=true =250x250)
+<img src="/assets/img/popup.png" width="250">
 
 ##Auto populating new tabs with SO search results
 ![search](/assets/img/search.png?raw=true | width=300)
+<img src="/assets/img/search.png" width="250">
+
 
 ##Auto closing those tabs after review
 
 ##Mouseover will open iframe preview of SO link
 ![hover](/assets/img/hover.png?raw=true | width=300)
+<img src="/assets/img/hover.png" width="250">
 
 
 ###Getting Started###
