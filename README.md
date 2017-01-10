@@ -1,4 +1,4 @@
-<img src="/icon.png" width="400">
+<img src="/assets/img/icon.png" width="400">
 
 #What is Stackpack?
 
