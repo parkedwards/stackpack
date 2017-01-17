@@ -1,4 +1,4 @@
-<p align="center><img src="/assets/img/icon.png" width="400"></p>
+<p align="center"><img src="/assets/img/icon.png" width="400"></p>
 
 ## What is Stackpack?
 
@@ -8,7 +8,7 @@ Stackpack is a Chrome browser extension that helps developers streamline their S
 
 Stackpack provides three primary functions to your SO research workflow:
 
-<p align="center"<img src="/assets/img/popup.png" width="400"></p>
+<p align="center"><img src="/assets/img/popup.png" width="400"></p>
 
 ### [1] One-Click Opens###
 <p align="center"><img src="/assets/img/search.png" width="600"></p>
@@ -35,7 +35,7 @@ Fork this repo and clone it
 Unpack file assets, and upload into your Chrome browser for testing
 
 <p align="center"><img src="/assets/img/Upload.png" width="600"></p>
-<p align="center"><img src="/assets/img/Unpack.png" width="600"></p>
+<p align="center"><img src="/assets/img/Unpack.png" width="900"></p>
 
 ## Author
 [Edward Park](https://github.com/parkedwards)
